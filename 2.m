@@ -8,3 +8,4 @@ function re=comp_fu(A,B)
     re=AB;
 end
 30
+60
