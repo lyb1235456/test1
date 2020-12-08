@@ -7,3 +7,4 @@ function re=comp_fu(A,B)
     end
     re=AB;
 end
+30
